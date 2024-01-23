@@ -192,7 +192,7 @@ mapview(final_data)+
   mapview(fritid_layer, col.regions = "green") + 
   mapview(anlag_layer, col.regions = "yellow")
 
-funktionella_tatorter <- final_data
+funktionella_orter <- final_data
 
 
 
